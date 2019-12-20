@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="giphy.gif" type="gif" sizes="25x25">
+    <title> Age Calculator</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div>
+        <form id='form' action="#">
+            <h2>Welcome to Age calculator</h2> Please insert your Birthdate : <input type="text" id="fbirthdate">
+            <br>Please insert your Birthmonth : <input type="text" id="fbirthmonth"><br> Please insert your Birthyear : <input type="text" id="fbirthyear">
+            <br><br><button onclick="calculateAge()">calculate</button>
+        </form>
+        <p id="outputsecond"></p><br>
+        <p id="outputminute"></p><br>
+        <p id="outputhour"></p><br>
+        <p id='outputdate'></p><br>
+        <p id='outputmonth'></p><br>
+        <p id='outputyear'></p>
+    </div>
+    <script src='calculateAge.js'></script>
+</body>
+
+</html>

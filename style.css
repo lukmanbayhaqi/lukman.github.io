@@ -1,0 +1,107 @@
+body {
+    background-image: url('wallpaper.png');
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color: wheat;
+    width: 350px;
+    height: 350px;
+    border: 5px solid chocolate;
+    padding: 100px;
+    margin: 50px auto;
+}
+
+#fbirthdate {
+    margin-left: 16px;
+    width: 100px;
+    height: 15px;
+}
+
+#fbirthmonth {
+    margin-left: 3px;
+    width: 100px;
+    height: 15px;
+}
+
+#fbirthyear {
+    margin-left: 16px;
+    width: 100px;
+    height: 15px;
+}
+
+#form {
+    margin: -100px -50px -70px -20px;
+}
+
+#outputsecond {
+    font-size: large;
+    text-align: center;
+    margin-top: 96px;
+    margin-left: 0px;
+    width: 330px;
+    height: 25px;
+    background-color: cornsilk;
+    padding: 0px;
+    border: 1px solid darkolivegreen;
+}
+
+#outputminute {
+    font-size: large;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0px;
+    width: 330px;
+    height: 25px;
+    background-color: cornsilk;
+    padding: 0px;
+    border: 1px solid darkolivegreen;
+}
+
+#outputhour {
+    font-size: large;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0px;
+    width: 330px;
+    height: 25px;
+    background-color: cornsilk;
+    padding: 0px;
+    border: 1px solid darkolivegreen;
+}
+
+#outputdate {
+    font-size: large;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0px;
+    width: 330px;
+    height: 25px;
+    background-color: cornsilk;
+    padding: 0px;
+    border: 1px solid darkolivegreen;
+}
+
+#outputmonth {
+    font-size: large;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0px;
+    background-color: cornsilk;
+    width: 330px;
+    height: 25px;
+    padding: 0px;
+    border: 1px solid darkolivegreen;
+}
+
+#outputyear {
+    font-size: large;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0px;
+    background-color: cornsilk;
+    width: 330px;
+    height: 25px;
+    padding: 0px;
+    border: 1px solid darkolivegreen;
+}
